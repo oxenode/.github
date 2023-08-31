@@ -3,7 +3,7 @@
 ### Create, Prototype and Share Visual Scripts through the Web.
 
 <p align="center">
-    <img src="./assets/alert.png" alt="Oxenode Alert Preview" width="350"/>
+    <img src="./assets/alert.png" alt="Oxenode Alert Preview" width="500"/>
 </p>
 <br/>
 
@@ -11,12 +11,12 @@
 
 
 <p align="center">
-    <img src="./assets/PokemonStats.png" alt="Oxenode Pokemon Stats Preview" width="450"/>
+    <img src="./assets/PokemonStats.png" alt="Oxenode Pokemon Stats Preview" width="650"/>
 </p>
 
 
 <p align="center">
-    <img src="./assets/PokemonCombat.png" alt="Oxenode Pokemon Combat Preview" width="450"/>
+    <img src="./assets/PokemonCombat.png" alt="Oxenode Pokemon Combat Preview" width="650"/>
 </p>
 
 <br/><br/>
