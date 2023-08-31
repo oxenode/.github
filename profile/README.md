@@ -24,6 +24,10 @@
 
 # Collection of Oxenode Scripts
 
+> NOTE: You need a Private Alpha Key to use these scripts. This project is not yet public due the lack of maturity (It will be open source eventually). Contact `matiasvlevi@gmail.com` to get a Private Alpha Key
+
+<br/>
+
 #### Basic
 
 [Simple Alert](https://oxenode.io/script/64ebfd6d75803061fb04b6b9)<br/>
