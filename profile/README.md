@@ -2,26 +2,6 @@
 
 ### Create, Prototype and Share Visual Scripts through the Web.
 
-<p align="center">
-    <img src="./assets/alert.png" alt="Oxenode Alert Preview" width="700"/>
-</p>
-<br/>
-
-### Fetch APIs 
-
-
-<p align="center">
-    <img src="./assets/PokemonStats.png" alt="Oxenode Pokemon Stats Preview" width="700"/>
-</p>
-
-
-<p align="center">
-    <img src="./assets/PokemonCombat.png" alt="Oxenode Pokemon Combat Preview" width="700"/>
-</p>
-
-<br/><br/>
-
-
 # Collection of Oxenode Scripts
 
 > NOTE: You need a Private Alpha Key to use these scripts. This project is not yet public due the lack of maturity (It will be open source eventually). Contact `matiasvlevi@gmail.com` to get a Private Alpha Key
